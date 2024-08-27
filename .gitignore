@@ -1,0 +1,9 @@
+*.ini
+*.ipynb_checkpoints
+*pkl
+*.db
+*.csv
+*.xz
+*.exe
+*__pycache__
+*.gsheet
